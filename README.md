@@ -1,18 +1,16 @@
+# Svelte Data Visualisation
+
+<img src='./logo_rds.png'  width='100px'></img>
+
+Created by Sutan Mufti (2023), this code is part of [RekayasaData.co.uk](https://rekayasadata.co.uk) project.
+
+This repository hosts the code that demonstrates data visualisation using Svelte. When built, use HTTP server to view the ```index.html```; the easies is using python ```python -m http.server```. 
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
